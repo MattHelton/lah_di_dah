@@ -1,9 +1,11 @@
 # Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
 one:
+  Goal: MyString
   name: MyString
   priority: MyString
 
 two:
+  Goal: MyString
   name: MyString
   priority: MyString
