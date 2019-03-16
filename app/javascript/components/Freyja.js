@@ -4,4 +4,4 @@ class Freyja extends React.Component {
 
 }
 
-export default Freyja;
+export default Freyja
